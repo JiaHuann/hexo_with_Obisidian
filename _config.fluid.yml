@@ -239,7 +239,7 @@ custom_js:
 # The usage is the same as custom_js
 custom_css:
 
-custom_head: '<meta name="baidu-site-verification" content="codeva-LDAoPux5CB" />'
+custom_head: '<meta name="baidu-site-verification" content="codeva-LDAoPux5CB" /><meta name="google-site-verification" content="k5UNdPCM3ACB0ksUGsWUnFDK2ZCbD5JUP3xrZNZtLTs" />'
 
 # 网页访问统计
 # Analysis of website visitors
@@ -305,7 +305,7 @@ lazyload:
 
   # 加载时的占位图片
   # The placeholder image when loading
-  loading_img: /img/loading.gif
+  loading_img: /img/wait.gif
 
   # 开启后懒加载仅在文章页生效，如果自定义页面需要使用，可以在 Front-matter 里指定 `lazyload: true`
   # If true, only enable lazyload on the post page. For custom pages, you can set 'lazyload: true' in front-matter
